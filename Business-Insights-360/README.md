@@ -29,7 +29,7 @@ Insights from the dashboard are expected to:
 The dataset used in this project is confidential and cannot be shared publicly. All visuals and insights are based on real-world industry data.
 
 ## 🔗 Live Dashboard
-[Link of the Dashboard](YOUR_POWER_BI_LINK)
+[Link of the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmJiMDNhMWItOGRiYy00ZmQ2LTliZDktMjQxYjM1NDJkZDYyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 🙏 Acknowledgment
 Guided by Codebasics under the mentorship of Hemanand Vadivel and Dhaval Patel.
