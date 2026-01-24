@@ -28,6 +28,10 @@ Insights from the dashboard are expected to:
 ## 🔒 Data Disclaimer
 The dataset used in this project is confidential and cannot be shared publicly. All visuals and insights are based on real-world industry data.
 
+## 📂 PBIX File
+The PBIX file size exceeds GitHub’s upload limit.  
+Please refer to the live Power BI dashboard link below for full interactivity.
+
 ## 🔗 Live Dashboard
 [Link of the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmJiMDNhMWItOGRiYy00ZmQ2LTliZDktMjQxYjM1NDJkZDYyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
